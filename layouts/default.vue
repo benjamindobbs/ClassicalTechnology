@@ -17,20 +17,17 @@
         :size="hover ? 50 : 40"
         :color="`grey ${hover ? 'darken' : 'lighten'}-1`"
         class="d-block text-center mx-auto mb-9"
-      >
-  
-        <v-btn :to="section.path" icon plain 
-        :class="hover ? 'd-block mx-auto my-3' : 'd-block mx-auto my-2'" >
-        <v-icon 
-        :size="hover ? 30 : 25">
-        {{section.icon}}</v-icon>
-      </v-btn>
-      
-    
-      
-      
-      
+      > 
+          <v-btn :to="section.path" icon plain 
+          :class="hover ? 'd-block mx-auto my-3' : 'd-block mx-auto my-2'" >
+            <v-icon 
+            :size="hover ? 30 : 25">
+            {{section.icon}}
+            </v-icon>
+          </v-btn>
+        
       </v-avatar>
+      
     </v-hover>   
     </v-navigation-drawer>
   </v-app>
@@ -58,8 +55,3 @@
 
   }
 </script>
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
