@@ -9,13 +9,8 @@
     "units":[
         {"title":"Basics",
             "description":"Learn to Find and Address Problems as they Happen",
-            "assignment":[
-                {"title":"How to Solve Problems",
-                "resources":"placeholder",
-                "rubric":"placeholder"},
-                {"title":"Test",
-                    "resources":"Test",
-                    "rubric":""}
+            "assignment":[{
+            "rubric":""}
             ]},
         {"title":"Tools",
         "description":"Learn Safety and Operation of Woodworking Equipment",

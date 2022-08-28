@@ -25,15 +25,15 @@
     </v-main>
 </template>
 <script>
- import section from "../static/json/techthreatre.json";
+
     export default {
         name: 'unit',
         props: {
             unit: Number,
+            sectionInfo: JSON,
 
         },
         data: () => ({
-            sectionInfo: section,
         })
     }
 </script>
