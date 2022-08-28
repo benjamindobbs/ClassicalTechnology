@@ -1,0 +1,27 @@
+{
+    "sectioninfo":[
+        {"title":"Classical Graphics Lab",
+        "description":"Work in a Design and Print Shop",
+        "classroom-link":"",
+        "teacher":"Lestini"
+    }   
+    ],
+    "units":[
+        {"title":"GIMP",
+            "description":"Become Familiar With GIMP, and Open Source Image Editor"
+        },
+        {"title":"InkScape",
+        "description":"Learn to Create Scalable Vector Images"
+        },
+        {"title":"Business",
+        "description":"Create a Small Company that Will Compete for Jobs Around the School"
+        },
+        {"title":"Screen Printing",
+        "description":"Create a Print Your Own Designs on Clothing or Paper"
+        },
+        {"title":"Embroidery",
+        "description":"Use a Computer Automated Embroidery Machine to Embroider Custom Designs on Apparel"
+        }
+            
+    ]
+}

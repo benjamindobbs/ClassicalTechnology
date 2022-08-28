@@ -1,0 +1,33 @@
+{
+    "sectioninfo":[
+        {"title":"Exploring Computer Science",
+        "description":"A Survey Course Designed to Give you a Taste of Teachnology",
+        "classroom-link":"",
+        "teacher":"Lestini/Dobbs"
+    }   
+    ],
+    "units":[
+        {"title":"Logic",
+            "description":"Solve Multi-Step Puzzles and Problems using Various Logical Techniques"
+        },
+        {"title":"Computing and Hardware",
+        "description":"Learn About the Parts of the Computer by Building a PC by Hand"
+        },
+        {"title":"Programming",
+        "description":"Learn to Code Websites, Explore MiT Scratch, and Master the Basics of Python"
+        },
+        {"title":"Graphic/3D Design",
+        "description":"Create 2D and 3D Digital Art in various Open Source Software"
+        },
+        {"title":"Robotics",
+        "description":"Apply the Design Method to Build and Program Robots"
+        },
+        {"title":"Engineering Design",
+        "description":"Evaluate Criteria to Design and Build Complex Machines to Solve Problems"
+        },
+        {"title":"Technology Venture",
+        "description":"Spend the Last Quarter Using all of Your New Skills to Create Something Amazing"
+        }
+            
+    ]
+}

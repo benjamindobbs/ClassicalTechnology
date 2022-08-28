@@ -1,0 +1,33 @@
+{
+    "sectioninfo":[
+        {"title":"Robotics & Automation",
+        "description":"Apply Engineering Skills to Solve Problems Through the Lens of Robotics",
+        "classroom-link":"",
+        "teacher":"Dobbs"
+    }   
+    ],
+    "units":[
+        {"title":"Simple Machines",
+            "description":"Use Simple Machine to get a Mechanical Advantage"
+        },
+        {"title":"Gears",
+        "description":"Use Gears to Be Fast or Strong"
+        },
+        {"title":"Programming",
+        "description":"Code Autonomous Sequences for a Robot to Complete a Repeatable Task"
+        },
+        {"title":"End Effectors",
+        "description":"Design Sub-Systems to Interact with the Enviorment"
+        },
+        {"title":"Electronics",
+        "description":"Move Away From Lego and Into Full Scale Robotics. Use Car Batteries to Run Motors, Pumps and More"
+        },
+        {"title":"Pneumatics",
+        "description":"Use Pressurized Air to Extend and Retract Pistons"
+        },
+        {"title":"Hooping",
+        "description":"Create a Drivable Robot That Shoots Free"
+        }
+            
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "sectioninfo":[
+        {"title":"Technical Theatre",
+        "description":"Become Your Own Theatre Production Company",
+        "classroom-link":"",
+        "teacher":"Dobbs"
+    }   
+    ],
+    "units":[
+        {"title":"Basics",
+            "description":"Learn to Find and Address Problems as they Happen",
+            "assignment":[{
+            "rubric":""}
+            ]},
+        {"title":"Tools",
+        "description":"Learn Safety and Operation of Woodworking Equipment",
+        "assignment":[
+            {"title":"",
+            "resources":"",
+            "rubric":""}
+        ]},
+        {"title":"Construction",
+            "description":"Learn to Build Complex Free-Standing Stuctures for Theatre Contexts",
+            "assignment":[
+                {"title":"",
+                "resources":"",
+                "rubric":""}
+            ]},
+        {"title":"Sound",
+            "description":"Learn to Create and Operate a Soundstage",
+            "assignment":[
+                {"title":"",
+                "resources":"",
+                "rubric":""}
+            ]},
+        {"title":"Lighting",
+            "description":"Learn and Apply Color Theory and Lighting Techniques to Enhance the Visuals of a Play",
+            "assignment":[
+                {"title":"",
+                "resources":"",
+                "rubric":""}
+            ]}
+            
+    ]
+}
